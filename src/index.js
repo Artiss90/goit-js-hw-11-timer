@@ -1,6 +1,4 @@
 // import { Theme } from './js/task';
-// import menuTemplate from './templates/template-menu.hbs';
-// import menuData from './menu.json';
 import './styles.css';
 // import BSN from 'bootstrap.native';
 
